@@ -1,0 +1,48 @@
+﻿  AcademicBuilding.cc
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(15): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(17): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(19): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(20): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\game.h(7): fatal error C1083: Cannot open include file: 'sys/ioctl.h': No such file or directory
+  Block.cc
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(15): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(17): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(19): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(20): warning C4129: 'e': unrecognized character escape sequence
+  Game.cc
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\game.h(7): fatal error C1083: Cannot open include file: 'sys/ioctl.h': No such file or directory
+  Gym.cc
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(15): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(17): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(19): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(20): warning C4129: 'e': unrecognized character escape sequence
+  main.cc
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\game.h(7): fatal error C1083: Cannot open include file: 'sys/ioctl.h': No such file or directory
+  MyInfoBoard.cc
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\myinfoboard.cc(13): warning C4018: '>': signed/unsigned mismatch
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\myinfoboard.cc(24): warning C4018: '>': signed/unsigned mismatch
+  NonProperty.cc
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(15): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(17): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(19): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(20): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\game.h(7): fatal error C1083: Cannot open include file: 'sys/ioctl.h': No such file or directory
+  Player.cc
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(15): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(17): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(19): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(20): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\game.h(7): fatal error C1083: Cannot open include file: 'sys/ioctl.h': No such file or directory
+  Property.cc
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(15): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(17): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(19): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(20): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\game.h(7): fatal error C1083: Cannot open include file: 'sys/ioctl.h': No such file or directory
+  Residence.cc
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(15): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(17): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(19): warning C4129: 'e': unrecognized character escape sequence
+e:\dropbox\coding\bbsevenk-main\bbsevenk-main\src\block.h(20): warning C4129: 'e': unrecognized character escape sequence
+  RurCup.cc
+  Generating Code...
